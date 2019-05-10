@@ -25,4 +25,4 @@ def make_contour_image(path):
     cv2.imwrite("./output.jpg", contour)
     return contour
 
-make_contour_image("./minion.jpg")
+make_contour_image("./gandam.jpg")

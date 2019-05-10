@@ -1,7 +1,2 @@
-diff.jpg
-gray.jpg
-minion.jpg
-dilated.jpg
-minion_gry.jpg
-minion_wb.jpg
-output.jpg
+*.jpg
+*.png
